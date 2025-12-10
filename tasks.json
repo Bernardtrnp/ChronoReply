@@ -1,0 +1,24 @@
+[
+    {
+        "id": "b20c1bcc",
+        "user_id": 1252268209802051624,
+        "channel_id": 1445799312893280427,
+        "content": "stop nika",
+        "repeat_type": "harian",
+        "repeat_value": "06:00",
+        "repeat_day": null,
+        "schedule_time_utc": "202512102300",
+        "timezone": "Asia/Jakarta"
+    },
+    {
+        "id": "b837b048",
+        "user_id": 1252268209802051624,
+        "channel_id": 1445799312893280427,
+        "content": "start nika",
+        "repeat_type": "harian",
+        "repeat_value": "08:00",
+        "repeat_day": null,
+        "schedule_time_utc": "202512110100",
+        "timezone": "Asia/Jakarta"
+    }
+]
